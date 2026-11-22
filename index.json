@@ -1,5 +1,27 @@
 {
   "name": "Cocoon Game Music",
-  "nds": [],
-  "ps2": []
+  "nds": [
+    {
+      "name": "Pokemon Black",
+      "file": "NDS/pokemon_black_white.ogg"
+    },
+    {
+      "name": "Pokemon White",
+      "file": "NDS/pokemon_black_white.ogg"
+    },
+    {
+      "name": "Pokemon Black 2",
+      "file": "NDS/pokemon_black_2_white_2.ogg"
+    },
+    {
+      "name": "Pokemon White 2",
+      "file": "NDS/pokemon_black_2_white_2.ogg"
+    }
+  ],
+  "ps2": [
+    {
+      "name": "Jak X: Combat Racing",
+      "file": "PS2/jak_x.ogg"
+    }
+  ]
 }
