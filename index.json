@@ -18,5 +18,10 @@
       "file": "nds/pokemon_black_2_white_2.ogg"
     }
   ],
-  "ps2": []
+  "ps2": [
+    {
+      "name": "Jak X: Combat Racing",
+      "file": "ps2/jak-x-bird.ogg"
+    }
+  ]
 }
