@@ -1,3 +1,4 @@
+
 {
   "name": "Cocoon Game Music",
   "nds": [
@@ -22,6 +23,14 @@
     {
       "name": "Jak X: Combat Racing",
       "file": "ps2/jak-x-bird.ogg"
+    },
+    {
+      "name": "Ratchet & Clank 3: Up Your Arsenal",
+      "file": "ps2/ratchet-and-clank-3-phoenix.ogg"
+    },
+    {
+      "name": "Ratchet: Deadlocked",
+      "file": "ps2/ratchet-deadlocked-win.ogg"
     }
   ]
 }
